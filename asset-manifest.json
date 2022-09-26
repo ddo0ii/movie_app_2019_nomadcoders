@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/movie_app_2019_nomadcoders/static/css/main.2855e99e.css",
-    "main.js": "/movie_app_2019_nomadcoders/static/js/main.9e9648c4.js",
+    "main.css": "/movie_app_2019_nomadcoders/static/css/main.f75eeceb.css",
+    "main.js": "/movie_app_2019_nomadcoders/static/js/main.bbb02951.js",
     "index.html": "/movie_app_2019_nomadcoders/index.html",
-    "main.2855e99e.css.map": "/movie_app_2019_nomadcoders/static/css/main.2855e99e.css.map",
-    "main.9e9648c4.js.map": "/movie_app_2019_nomadcoders/static/js/main.9e9648c4.js.map"
+    "main.f75eeceb.css.map": "/movie_app_2019_nomadcoders/static/css/main.f75eeceb.css.map",
+    "main.bbb02951.js.map": "/movie_app_2019_nomadcoders/static/js/main.bbb02951.js.map"
   },
   "entrypoints": [
-    "static/css/main.2855e99e.css",
-    "static/js/main.9e9648c4.js"
+    "static/css/main.f75eeceb.css",
+    "static/js/main.bbb02951.js"
   ]
 }
