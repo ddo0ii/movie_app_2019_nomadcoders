@@ -1,7 +1,7 @@
 import React from "react";
 
-function Detail(props) {
-  console.log(props);
+function Detail({ location }) {
+  console.log(location);
   return <span>hello</span>;
 }
 export default Detail;
